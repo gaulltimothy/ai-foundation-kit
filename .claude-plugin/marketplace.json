@@ -1,0 +1,15 @@
+{
+  "name": "gaullco",
+  "description": "Tools from Gaull & Co, the practice of Timothy Gaull",
+  "owner": {
+    "name": "Timothy Gaull",
+    "url": "https://timothygaull.com"
+  },
+  "plugins": [
+    {
+      "name": "ai-foundation-kit",
+      "source": "./",
+      "description": "Interviews a business owner one question at a time to map how work moves, write down the facts AI needs, and turn a recurring task into a tested AI skill."
+    }
+  ]
+}
