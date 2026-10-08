@@ -24,6 +24,6 @@ Nothing beyond your own conversation. The kit is instructions and reference text
 
 ## About
 
-Made by Timothy Gaull of Gaull & Co, an AI and business systems consultant in Nashville. Want help running it with your team? https://timothygaull.com/work-with-me/
+Made by Gaull & Co, the practice of Timothy Gaull, an AI and business systems consultant in Nashville. Want help running it with your team? https://timothygaull.com/work-with-me/
 
 Licensed under CC BY 4.0. See [LICENSE](LICENSE).

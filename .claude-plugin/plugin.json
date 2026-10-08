@@ -4,13 +4,18 @@
   "version": "1.0.0",
   "description": "Interviews a business owner one question at a time to map how work moves, write down the facts AI needs, and turn a recurring task into a tested AI skill.",
   "author": {
-    "name": "Timothy Gaull",
+    "name": "Gaull & Co",
     "url": "https://timothygaull.com"
   },
   "homepage": "https://timothygaull.com/kit/",
   "repository": "https://github.com/gaulltimothy/ai-foundation-kit",
   "license": "CC-BY-4.0",
-  "keywords": ["small business", "business process mapping", "AI adoption", "interview", "SOP", "context"],
-  "documentationUrl": "https://timothygaull.com/kit/#use",
-  "supportUrl": "https://timothygaull.com/work-with-me/"
+  "keywords": [
+    "small business",
+    "business process mapping",
+    "AI adoption",
+    "interview",
+    "SOP",
+    "context"
+  ]
 }
